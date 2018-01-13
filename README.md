@@ -54,6 +54,9 @@ http://smscache-dev.us-west-2.elasticbeanstalk.com/swagger
 ```
 
 ## AWS Deployment Steps
-
+Follow below instructions to deploy on AWS
+```
+https://docs.aws.amazon.com/toolkit-for-visual-studio/latest/user-guide/deployment-beanstalk-netcore.html
+```
 ## Authors
 Akhilesh Singh
