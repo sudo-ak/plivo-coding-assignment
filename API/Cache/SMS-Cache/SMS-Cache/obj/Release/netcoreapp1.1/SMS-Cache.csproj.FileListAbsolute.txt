@@ -1,0 +1,8 @@
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\Cache\SMS-Cache\SMS-Cache\bin\Release\netcoreapp1.1\SMS-Cache.deps.json
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\Cache\SMS-Cache\SMS-Cache\bin\Release\netcoreapp1.1\SMS-Cache.runtimeconfig.json
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\Cache\SMS-Cache\SMS-Cache\bin\Release\netcoreapp1.1\SMS-Cache.runtimeconfig.dev.json
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\Cache\SMS-Cache\SMS-Cache\bin\Release\netcoreapp1.1\SMS-Cache.dll
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\Cache\SMS-Cache\SMS-Cache\bin\Release\netcoreapp1.1\SMS-Cache.pdb
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\Cache\SMS-Cache\SMS-Cache\obj\Release\netcoreapp1.1\SMS-Cache.AssemblyInfo.cs
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\Cache\SMS-Cache\SMS-Cache\obj\Release\netcoreapp1.1\SMS-Cache.dll
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\Cache\SMS-Cache\SMS-Cache\obj\Release\netcoreapp1.1\SMS-Cache.pdb

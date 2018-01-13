@@ -1,0 +1,12 @@
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\SMS\SMS.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\SMS\SMS.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\SMS\SMS.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\SMS\SMS.Tests\bin\Debug\netcoreapp1.1\SMS.Tests.dll
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\SMS\SMS.Tests\bin\Debug\netcoreapp1.1\SMS.Tests.deps.json
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\SMS\SMS.Tests\bin\Debug\netcoreapp1.1\SMS.Tests.runtimeconfig.json
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\SMS\SMS.Tests\bin\Debug\netcoreapp1.1\SMS.Tests.runtimeconfig.dev.json
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\SMS\SMS.Tests\bin\Debug\netcoreapp1.1\SMS.Tests.pdb
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\SMS\SMS.Tests\obj\Debug\netcoreapp1.1\SMS.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\SMS\SMS.Tests\obj\Debug\netcoreapp1.1\SMS.Tests.AssemblyInfo.cs
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\SMS\SMS.Tests\obj\Debug\netcoreapp1.1\SMS.Tests.dll
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\SMS\SMS.Tests\obj\Debug\netcoreapp1.1\SMS.Tests.pdb

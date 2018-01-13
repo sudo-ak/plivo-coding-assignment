@@ -1,0 +1,9 @@
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\SMS\SMS\bin\Debug\netcoreapp1.1\SMS.deps.json
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\SMS\SMS\bin\Debug\netcoreapp1.1\SMS.runtimeconfig.json
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\SMS\SMS\bin\Debug\netcoreapp1.1\SMS.runtimeconfig.dev.json
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\SMS\SMS\bin\Debug\netcoreapp1.1\SMS.dll
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\SMS\SMS\bin\Debug\netcoreapp1.1\SMS.pdb
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\SMS\SMS\obj\Debug\netcoreapp1.1\SMS.csprojResolveAssemblyReference.cache
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\SMS\SMS\obj\Debug\netcoreapp1.1\SMS.AssemblyInfo.cs
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\SMS\SMS\obj\Debug\netcoreapp1.1\SMS.dll
+C:\Users\Akhilesh\Desktop\PlivoCodingAssignment\API\SMS\SMS\obj\Debug\netcoreapp1.1\SMS.pdb
