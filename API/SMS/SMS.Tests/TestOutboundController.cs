@@ -140,7 +140,9 @@ namespace SMS.Tests
         public void Cleanup()
         {
             _client = null;
+            _cacheClient = null;
             _response = null;
+            _cacheResponse = null;
             _token = null;
             _from = null;
             _to = null;
